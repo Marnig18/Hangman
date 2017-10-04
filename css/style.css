@@ -1,0 +1,60 @@
+header{
+	width: 100%;
+	text-align: center;
+	font-size: 60px;
+	font-family: 'Italianno', cursive;
+	margin-bottom: 80px;
+}
+
+
+
+body{
+	background-image: url(../images/parchment.jpg);
+
+}
+p{
+	font-family: 'Bilbo', cursive;
+}
+
+
+
+#game{
+	border: 3px solid #000;
+/*	padding: 40px;*/
+	width: 40%;
+	margin: 0 auto;
+	height: 500px;
+	right: 20px;
+
+}
+
+#button{
+	margin: 0 auto;
+	width: 40%;
+	padding: 20px;
+	font-size: 20px;
+	margin-left: 30%;
+	top: 0px;
+	position: relative;
+}
+
+#word{
+	margin: 0 auto;
+	width: 40%;
+	/*padding: 20px;*/
+	font-size: 40px;
+	
+	top: 200px;
+	position: relative;
+}
+
+#remaining{
+	display: inline;
+	float: left;
+	position: relative;
+	bottom: 500px;
+	font-size: 50px
+
+
+
+
